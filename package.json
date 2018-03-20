@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikoultsev/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Oleg Vikoultsev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vikoultsev/test/issues"
+  },
+  "homepage": "https://github.com/vikoultsev/test#readme"
+}
